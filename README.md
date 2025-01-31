@@ -19,6 +19,8 @@ I love Vue and C#, and really like starting projects that I then always leave ha
   - Local Weather
   - News
   - That's it
+ 
+---
 
 ### 📫 How to Reach Me
 
@@ -30,6 +32,7 @@ I love Vue and C#, and really like starting projects that I then always leave ha
 - 👀 I’m interested in breathing oxygen
 - 🌱 I’m currently learning everything I can
 - 💞️ I’m looking to collaborate on chores like cooking, cleaning
+
 ---
 
 ### Contributing
