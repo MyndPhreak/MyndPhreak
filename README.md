@@ -9,12 +9,12 @@ I love Vue and C#, and really like starting projects that I then always leave ha
 
 ## 🌱 My Current Projects
 
-- **Unfit For Print (Web Game):**
+- **[Unfit For Print (Web Game):](https://github.com/MyndPhreak/unfit-for-print)**
   - Cards Against Humanity clone Web Game written in Vue, with the Nuxt 3 framework as the bones, and a realtime Appwrite backend for user auth and databases.
   - Basically my main focus right now.
   - Custom shuffling functions, lobby stuff, auth, text chat.
   
-- **Teletext Simulator:**
+- **[Teletext Simulator:](https://tele.ppo.wtf/)**
   - Remember those 90's Teletext screens on TV where you need to push numbers to see stuff like
   - Local Weather
   - News
