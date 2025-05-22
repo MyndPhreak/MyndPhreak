@@ -9,7 +9,7 @@ I love Vue and C#, and really like starting projects that I then always leave ha
 
 ## 🌱 My Current Projects
 
-- **[Unfit For Print (Web Game):](https://github.com/MyndPhreak/unfit-for-print)**
+- **[Unfit For Print (Web Game):](https://github.com/PPO-GG/unfit-for-print)**
   - Cards Against Humanity clone Web Game written in Vue, with the Nuxt 3 framework as the bones, and a realtime Appwrite backend for user auth and databases.
   - Basically my main focus right now.
   - Custom shuffling functions, lobby stuff, auth, text chat.
