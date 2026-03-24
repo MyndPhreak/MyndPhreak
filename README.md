@@ -14,11 +14,11 @@ I love Vue and C#, and really like starting projects that I then always leave ha
   - Basically my main focus right now.
   - Custom shuffling functions, lobby stuff, auth, text chat.
   
-- **[Teletext Simulator:](https://tele.ppo.wtf/)**
-  - Remember those 90's Teletext screens on TV where you need to push numbers to see stuff like
-  - Local Weather
-  - News
-  - That's it
+- **[MODUS:](https://modus.ppo.gg)**
+  - Modular Discord Utility System (MODUS) is my take on having it all.
+  - Over 20 advanced modules
+  - A fully featured music module for playing high fidelity music via youtube, spotify, and others
+  - Multi-track audio recording with variable bitrate
  
 ---
 
