@@ -13,12 +13,14 @@ I love Vue and C#, and really like starting projects that I then always leave ha
   - Cards Against Humanity clone Web Game written in Vue, with the Nuxt 3 framework as the bones, and a realtime Appwrite backend for user auth and databases.
   - Basically my main focus right now.
   - Custom shuffling functions, lobby stuff, auth, text chat.
+  - Accessible at [unfit.cards](https://unfit.cards)
   
-- **[MODUS:](https://modus.ppo.gg)**
+- **[MODUS:](https://github.com/MyndPhreak/MODUS)**
   - Modular Discord Utility System (MODUS) is my take on having it all.
   - Over 20 advanced modules
   - A fully featured music module for playing high fidelity music via youtube, spotify, and others
   - Multi-track audio recording with variable bitrate
+  - Accessible at [modus.ppo.gg](https://modus.ppo.gg)
  
 ---
 
