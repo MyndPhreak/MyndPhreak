@@ -15,7 +15,7 @@ I love Vue and C#, and really like starting projects that I then always leave ha
   - Custom shuffling functions, lobby stuff, auth, text chat.
   - Accessible at [unfit.cards](https://unfit.cards)
   
-- **[MODUS:](https://github.com/MyndPhreak/MODUS)**
+- **[MODUS (Discord Bot):](https://github.com/MyndPhreak/MODUS)**
   - Modular Discord Utility System (MODUS) is my take on having it all.
   - Over 20 advanced modules
   - A fully featured music module for playing high fidelity music via youtube, spotify, and others
