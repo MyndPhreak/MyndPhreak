@@ -20,7 +20,7 @@ I love Vue and C#, and really like starting projects that I then always leave ha
   - Over 20 advanced modules
   - A fully featured music module for playing high fidelity music via youtube, spotify, and others
   - Multi-track audio recording with variable bitrate
-  - Accessible at [modus.ppo.gg](https://modus.ppo.gg)
+  - Accessible at [modus.ppo.gg](https://modusbot.io)
  
 ---
 
