@@ -39,7 +39,7 @@ I love Vue and C#, and really like starting projects that I then always leave ha
 
 ### Contributing
 
-Contributions are welcome! If you have any ideas, bug reports, or feature requests, please open an issue or submit a pull request. All my repo's are private so good luck I suppose.
+Contributions are welcome! If you have any ideas, bug reports, or feature requests, please open an issue or submit a pull request.
 
 ### License
 
