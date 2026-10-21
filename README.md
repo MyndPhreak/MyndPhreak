@@ -10,9 +10,10 @@ I love Vue and C#, and really like starting projects that I then always leave ha
 ## 🌱 My Current Projects
 
 - **[Unfit For Print (Web Game):](https://github.com/PPO-GG/unfit-for-print)**
-  - Cards Against Humanity clone Web Game written in Vue, with the Nuxt 3 framework as the bones, and a realtime Appwrite backend for user auth and databases.
+  - Cards Against Humanity style Web Game written in Vue (Nuxt 4), and a yjs partyserver (cloudflare) for real time multiplayer.
   - Basically my main focus right now.
-  - Custom shuffling functions, lobby stuff, auth, text chat.
+  - Steam version is being worked on.
+  - Custom shuffling functions, lobbies, discord activity, auth, text chat, labs.
   - Accessible at [unfit.cards](https://unfit.cards)
   
 - **[MODUS (Discord Bot):](https://github.com/PPO-GG/MODUS)**
